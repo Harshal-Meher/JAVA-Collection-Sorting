@@ -5,26 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f567582f-f9a9-4af3-964a-ee6046d8c3cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA-Practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CommonElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JoinTwoArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergeArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergeTwoArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumOfNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Swap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/isPrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iteratorList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CustomSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PairSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverceSentences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/isAnagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,17 +41,22 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.CharCount.executor": "Run",
     "Application.CommonElement.executor": "Run",
+    "Application.CustomSorting.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.Fruit.executor": "Run",
     "Application.JoinTwoArray.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MergeArrays.executor": "Run",
     "Application.MergeTwoArray.executor": "Run",
+    "Application.PairSum.executor": "Run",
     "Application.Palindrome.executor": "Run",
+    "Application.ReverceSentences.executor": "Run",
     "Application.ReverseString.executor": "Run",
     "Application.SumOfNumbers.executor": "Run",
     "Application.Swap.executor": "Run",
+    "Application.isAnagrams.executor": "Run",
     "Application.isPrimeNumber.executor": "Run",
     "Application.iteratorList.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -74,37 +65,37 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SumOfNumbers">
-    <configuration name="CommonElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CommonElement" />
+  <component name="RunManager" selected="Application.ReverceSentences">
+    <configuration name="CharCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharCount" />
       <module name="JAVA-Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Factorial" />
+    <configuration name="CustomSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CustomSorting" />
       <module name="JAVA-Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeTwoArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MergeTwoArray" />
+    <configuration name="PairSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PairSum" />
       <module name="JAVA-Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumOfNumbers" />
+    <configuration name="ReverceSentences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverceSentences" />
       <module name="JAVA-Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isPrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="isPrimeNumber" />
+    <configuration name="isAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="isAnagrams" />
       <module name="JAVA-Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -112,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SumOfNumbers" />
-        <item itemvalue="Application.isPrimeNumber" />
-        <item itemvalue="Application.CommonElement" />
-        <item itemvalue="Application.MergeTwoArray" />
-        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.ReverceSentences" />
+        <item itemvalue="Application.CharCount" />
+        <item itemvalue="Application.PairSum" />
+        <item itemvalue="Application.CustomSorting" />
+        <item itemvalue="Application.isAnagrams" />
       </list>
     </recent_temporary>
   </component>
